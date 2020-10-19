@@ -1,0 +1,1 @@
+scalac -classpath /home/mark/Repos/project_euler_solutions/project_euler_4/target/scala-2.12/classes -bootclasspath /home/mark/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar /home/mark/Repos/project_euler_solutions/project_euler_4/src/main/scala/projecteuler4/ProjectEuler4.scala
